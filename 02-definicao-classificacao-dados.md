@@ -2,7 +2,7 @@
 
 ## Visão Geral das Fontes
 
-O projeto UniCad opera sobre cadastros de **clientes** e **fornecedores** distribuídos em 5 subsidiárias, cada uma com seu próprio sistema e estrutura de dados. O quadro abaixo sintetiza as fontes:
+O projeto Cadastro único opera sobre cadastros de **clientes** e **fornecedores** distribuídos em 5 subsidiárias, cada uma com seu próprio sistema e estrutura de dados. O quadro abaixo sintetiza as fontes:
 
 ```mermaid
 flowchart TB
