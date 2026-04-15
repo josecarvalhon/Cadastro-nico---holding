@@ -1,4 +1,4 @@
-# UniCad — Plataforma Unificada de Cadastros para Holdings
+# Cadastro único — Plataforma Unificada de Cadastros para Holdings
 
 > **Disciplina:** Engenharia de Dados — CEUB  
 > **Avaliação:** 1ª Avaliação — Planejamento e Desenho Arquitetural  
@@ -8,7 +8,7 @@
 
 ## Visão Geral
 
-O **UniCad** é um projeto de engenharia de dados que resolve um problema comum em grandes holdings: a **fragmentação de cadastros de clientes e fornecedores** espalhados por múltiplos sistemas, bancos de dados e estruturas diferentes. O projeto propõe uma arquitetura Lakehouse com Arquitetura Medalhão (Bronze/Prata/Ouro), utilizando DuckDB como motor analítico colunar para entregar uma visão consolidada e consultável de todos os cadastros.
+O **Cadastro único** é um projeto de engenharia de dados que resolve um problema comum em grandes holdings: a **fragmentação de cadastros de clientes e fornecedores** espalhados por múltiplos sistemas, bancos de dados e estruturas diferentes. O projeto propõe uma arquitetura Lakehouse com Arquitetura Medalhão (Bronze/Prata/Ouro), utilizando DuckDB como motor analítico colunar para entregar uma visão consolidada e consultável de todos os cadastros.
 
 ## Problema Central
 
