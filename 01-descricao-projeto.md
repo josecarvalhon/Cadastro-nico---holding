@@ -2,7 +2,7 @@
 
 ## Nome do Projeto
 
-**UniCad — Plataforma Unificada de Cadastros para Holdings**
+**Cadastro único — Plataforma Unificada de Cadastros para Holdings**
 
 ## Contexto de Negócio
 
