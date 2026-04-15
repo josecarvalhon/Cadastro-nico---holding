@@ -2,7 +2,7 @@
 
 ## Tipo de Arquitetura Escolhida
 
-O UniCad adota uma arquitetura **Data Lakehouse com Arquitetura Medalhão (Bronze/Prata/Ouro)**, complementada por uma camada de **streaming via Lambda Architecture** para as fontes que suportam CDC.
+O Cadastro único adota uma arquitetura **Data Lakehouse com Arquitetura Medalhão (Bronze/Prata/Ouro)**, complementada por uma camada de **streaming via Lambda Architecture** para as fontes que suportam CDC.
 
 ### Justificativa da escolha (com base nos conceitos das Aulas 02 e 03)
 
